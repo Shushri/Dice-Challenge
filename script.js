@@ -13,5 +13,5 @@ else if (randomnumber2>randomnumber1){
     document.querySelector("h1").innerHTML="Player 2 WINS!!!🚩";
 }
 else{
-    document.querySelector("h1").innerHTML="DRAW!!!";
+    document.querySelector("h1").innerHTML="DRAW!!!👍";
 }
